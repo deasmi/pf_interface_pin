@@ -14,7 +14,7 @@ ensure both WAN interfaces share the same MAC address.  This obviously
 requires a VLAN/switch with both WAN interfaces and the upstream
 router connected to it.
 
-*Note you MUST reinstall after an upgrade*
+**Note you MUST reinstall after an upgrade**
 
 Installation Instructions
 -------------------------
