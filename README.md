@@ -19,7 +19,9 @@ router connected to it.
 Instructions
 ------------
 
-run /etc/rc.conf_mount_rw to enable write to file systems
+run  
+`/etc/rc.conf_mount_rw`  
+to enable write to file systems
 
 Install carp.conf to /usr/local/etc/devd/
 This directory will need
@@ -28,11 +30,13 @@ creating probably
 Install both wan_up.sh and wan_down.sh into /usr/local/bin
 
 
-/etc/rc.conf_mount_ro to go back to r/o filesytem
+`/etc/rc.conf_mount_ro`
+to go back to r/o filesytem
 
 Installation script
 -------------------
 
-Alternatively run install.sh <ip address> This works best if you
-already have your SSH public key installed onto the firewall and have
-the key added to your ssh-agent
+Alternatively run
+`install.sh <ip address>`
+This works best if you already have your SSH public key installed onto
+the firewall and have the key added to your ssh-agent
