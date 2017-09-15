@@ -1,6 +1,13 @@
 Interface Pin
 =============
 
+IMPORTANT
+=========
+
+THIS IS NO LONGER MAINTAINED AND PROBABLY WILL NOT WORK WITH
+CURRENT VERSIONS OF PFSENSE - USE AT OWN RISK
+
+
 Introduction
 ------------
 
